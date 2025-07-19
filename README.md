@@ -5,6 +5,7 @@ This is a simple Python project that lets you control any music player (like Spo
 It uses computer vision to recognize finger counts and maps them to media control actions like Play/Pause, Next, Previous, Volume Up, and Volume Down.
 
 📂 Project Structure
+
 ├── spotifyhand.py     # Main script for hand gesture recognition and media control
 ├── requirements.bat   # Auto-installs required libraries and runs the script
 ├── README.md          # Project overview and file details
