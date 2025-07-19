@@ -6,8 +6,8 @@ It uses computer vision to recognize finger counts and maps them to media contro
 
 📂 Project Structure
 
-├── spotifyhand.py     # Main script for hand gesture recognition and media control
-├── requirements.bat   # Auto-installs required libraries and runs the script
+├── spotifyhand.py     # Main script for hand gesture recognition and media control                                                                
+├── requirements.bat   # Auto-installs required libraries and runs the script                                                                      
 ├── README.md          # Project overview and file details
 
 
